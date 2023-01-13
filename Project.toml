@@ -1,0 +1,10 @@
+name = "IREEInterface"
+uuid = "7f013772-90de-4457-a165-6cc9e60ace38"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+julia = "1"
